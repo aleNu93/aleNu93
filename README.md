@@ -47,7 +47,7 @@ I developed about 90% of the code, using hardcoded test data for simulation. Thi
 I’m always open to **collaborating** on projects and **learning** from experienced developers. Your **feedback** and insights are highly appreciated. 
 Let’s connect and make amazing things together! Feel free to reach out for opportunities or a friendly tech chat.
 
-- **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/javier-ale-nu/
+- **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/javier-ale-nu/)
 
 
 ---

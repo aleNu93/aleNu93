@@ -28,9 +28,9 @@ I am actively seeking opportunities in software development, IT, data analysis, 
 ## 🧰 Tech Stack
 I'm still learning, but here are some of the languages and tools I've been using as part of my major:
 
-Languages: Java (mostly in NetBeans), C# (a little, also in NetBeans), Python (a little, using Visual Studio and OCI)
+- **Languages**: Java (mostly in NetBeans), C# (a little, also in NetBeans), Python (a little, using Visual Studio and OCI)
 
-Tools & IDEs: NetBeans, Visual Studio
+- **Tools & IDEs**: NetBeans, Visual Studio
 
 I'm continuously exploring and building my skills — always open to learning more!
 

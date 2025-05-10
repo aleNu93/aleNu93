@@ -66,6 +66,21 @@ Key features include:
 
 I developed around 70% of the system, including most of the logic and structure, while my teammate José contributed the remaining 30%. This project strengthened my understanding of object-oriented programming and marked my first major experience with Java.
 
+### 3. [📄 Translation Company Page Management Program](https://github.com/aleNu93/Translation_Company_Page_Management_Program.git)
+
+This is a console-based system for managing the workflow of translation documents in a company, built with **Java** in **NetBeans**. The system uses **Stacks**, **Queues**, and **Lists** to efficiently manage pages, customer requests, and historical records, ensuring a smooth document processing flow.
+
+The project was developed to practice and apply **Java** and **OOP** principles, focusing on data structures such as stacks for page management, queues for customer requests, and lists for tracking used pages.
+
+Key features include:
+
+- Management of translation pages using a stack, with pages being processed and moved to a list.
+- Queue-based handling of customer requests, ensuring order fulfillment in the sequence they arrive.
+- Historical records that track used pages and served clients.
+- An organized document workflow to prevent delays and ensure efficient processing.
+
+I developed approximately **50%** of the system, focusing on the core logic, class design, product management, and purchase simulation, **Main**, and **Cliente** classes, while my teammate **Samuel** contributed the remaining **50%**, particularly the **Hojas** class. This project enhanced my skills in **OOP** and **Java** and provided valuable experience in software design and problem-solving.
+
 ---
 
 ## 🤝 Collaboration & 📬 Get in Touch
@@ -74,7 +89,6 @@ I’m always open to **collaborating** on projects and **learning** from experie
 Let’s connect and make amazing things together! Feel free to reach out for opportunities or a friendly tech chat.
 
 - **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/javier-ale-nu/)
-
 
 ---
 

@@ -51,6 +51,21 @@ The system manages users and vehicles across university parking lots, improving 
 
 I developed about 90% of the code, using hardcoded test data for simulation. This project marks the beginning of my journey in software development.
 
+###2. [🍪 Crumbl Cookies Sales System]()  
+
+This is a console-based simulation of a cookie store’s purchasing system, inspired by Crumbl Cookies and built with Java in NetBeans. The system helps users select cookies, enter quantities, and view the total price using an object-oriented approach.
+
+The project was designed to practice and apply Java and OOP fundamentals, including class structure, encapsulation, and method logic.
+
+Key features include:
+
+- Display of available cookies and prices.  
+- User-friendly interface for selecting and editing orders.  
+- Real-time calculation of total price.  
+- Purchase confirmation with order summary.  
+
+I developed around 70% of the system, including most of the logic and structure, while my teammate José contributed the remaining 30%. This project strengthened my understanding of object-oriented programming and marked my first major experience with Java.
+
 ---
 
 ## 🤝 Collaboration & 📬 Get in Touch

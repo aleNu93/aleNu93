@@ -38,7 +38,7 @@ I'm continuously exploring and building my skills — always open to learning mo
 
 ## 📂 Projects
 
-### 1. [🚗 Parking Management System - ULACIT](link-to-project)
+### 1. [🚗 Parking Management System - ULACIT](https://github.com/aleNu93/Gestion-Parqueo-Ulacit.git)
 
 This is my first programming project, developed with Python to address the inefficient manual parking process at ULACIT. 
 
@@ -51,7 +51,7 @@ The system manages users and vehicles across university parking lots, improving 
 
 I developed about 90% of the code, using hardcoded test data for simulation. This project marks the beginning of my journey in software development.
 
-###2. [🍪 Crumbl Cookies Sales System]()  
+###2. [🍪 Crumbl Cookies Sales System](https://github.com/aleNu93/Crumbl_Cookies_Sales_System.git)  
 
 This is a console-based simulation of a cookie store’s purchasing system, inspired by Crumbl Cookies and built with Java in NetBeans. The system helps users select cookies, enter quantities, and view the total price using an object-oriented approach.
 

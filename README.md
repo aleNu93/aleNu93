@@ -1,97 +1,103 @@
-# 🚀 Transitioning from Healthcare to Tech
+# 🚀 Transitioning from Healthcare to Technology
 
-Welcome to my GitHub! I'm a **former physician** now transitioning into the world of **tech** 🌐. 
-Passionate about **AI 🤖**, **Cybersecurity 🔐**, and **Software Development 💻**, I’m learning, building, and ready to grow in this exciting field! 
+Welcome to my GitHub. I am a **Computer Engineering professional** with experience in healthcare, public-sector digital transformation, and enterprise IT environments. My work involves the design, implementation, and analysis of software systems, databases, networks, and secure infrastructures.
+
+This repository documents academic and applied projects developed within structured engineering, operational, and enterprise contexts.
 
 ---
 
 ## 💡 About Me
 
-Junior Computer Engineer | Data Analysis Associate | Growing Passion for AI, Cybersecurity, Data Analysis, and QA | Extensive Experience in Management and Teaching
+Computer Engineering Professional | Enterprise IT | Software, Data, Infrastructure, and Security Systems
 
-Originally a physician with seven years of experience and specialized in healthcare management, I have developed expertise in strategic planning, data analysis, decision-making, and leading multidisciplinary teams in high-pressure environments.
+I began my professional career in healthcare, accumulating more than seven years of experience in clinical operations and healthcare management roles. During this period, I developed strong capabilities in analytical reasoning, data-driven decision-making, process coordination, and leadership of multidisciplinary teams operating under high-criticality conditions.
 
-I am now fully transitioning into the tech industry, with a strong interest in artificial intelligence, cybersecurity, data analysis, project management, and quality assurance. I am eager to apply my skills to drive innovation and contribute to impactful technology solutions.
+I later transitioned into technology-focused roles, applying these competencies to enterprise incident management, public-sector digital transformation initiatives, database systems, networking, and software architecture. My experience includes coordination across technical and non-technical stakeholders, system analysis, implementation support, and validation of technical solutions in regulated environments.
 
-I am actively seeking opportunities in software development, IT, data analysis, cybersecurity, and other tech-related fields. I look forward to applying my skills, learning from experienced professionals, and contributing to innovative solutions. Let’s connect!
-
----
-
-## 🔎 My Current Focus
-
-- **📚 Learning**: Gaining hands-on experience in **AI**, **Cybersecurity**, and **Development**.
-- **🔨 Building**: Working on real-world projects to apply what I’m learning.
-- **🌱 Growing**: Seeking opportunities to grow and contribute to the tech community.
+My academic and professional work reflects a structured engineering approach grounded in system reliability, security awareness, and operational accountability.
 
 ---
 
-## 🧰 Tech Stack
-I'm still learning, but here are some of the languages and tools I've been using as part of my major:
+## 🧰 Technical Stack
 
-- **Languages**: Java (mostly in NetBeans), C# (a little, also in NetBeans), Python (a little, using Visual Studio and OCI)
+The following technologies reflect documented academic training and applied project experience:
 
-- **Tools & IDEs**: NetBeans, Visual Studio
+- **Programming Languages**: Java, Python, C#, JavaScript, SQL
+- **Web Technologies**: HTML, CSS, Node.js, React
+- **Databases**: SQL Server, relational modeling, normalization (1NF to 3NF), stored procedures, triggers, views
+- **Networking**: IPv4, IPv6, VLANs, OSPF, DNS, DHCP
+- **Tools and Platforms**: Git and GitHub, Visual Studio, Apache NetBeans, Cisco Packet Tracer, Azure DevOps, Oracle Cloud Infrastructure
 
-I'm continuously exploring and building my skills — always open to learning more!
-
----
-
-## 📂 Projects
-
-### 1. [🚗 Parking Management System - ULACIT](https://github.com/aleNu93/Gestion-Parqueo-Ulacit.git)
-
-This is my first programming project, developed with Python to address the inefficient manual parking process at ULACIT. 
-
-The system manages users and vehicles across university parking lots, improving efficiency and user experience. Key features include:
-
-- User registration and vehicle tracking (students, staff, visitors).
-- Verification of active enrollment/employment status.
-- Parking spot management and time tracking.
-- Special control for unregistered visitors.
-
-I developed about 90% of the code, using hardcoded test data for simulation. This project marks the beginning of my journey in software development.
-
-### 2. [🍪 Crumbl Cookies Sales System](https://github.com/aleNu93/Crumbl_Cookies_Sales_System.git)  
-
-This is a console-based simulation of a cookie store’s purchasing system, inspired by Crumbl Cookies and built with Java in NetBeans. The system helps users select cookies, enter quantities, and view the total price using an object-oriented approach.
-
-The project was designed to practice and apply Java and OOP fundamentals, including class structure, encapsulation, and method logic.
-
-Key features include:
-
-- Display of available cookies and prices.  
-- User-friendly interface for selecting and editing orders.  
-- Real-time calculation of total price.  
-- Purchase confirmation with order summary.  
-
-I developed around 70% of the system, including most of the logic and structure, while my teammate José contributed the remaining 30%. This project strengthened my understanding of object-oriented programming and marked my first major experience with Java.
-
-### 3. [📄 Translation Company Page Management Program](https://github.com/aleNu93/Translation_Company_Page_Management_Program.git)
-
-This is a console-based system for managing the workflow of translation documents in a company, built with **Java** in **NetBeans**. The system uses **Stacks**, **Queues**, and **Lists** to efficiently manage pages, customer requests, and historical records, ensuring a smooth document processing flow.
-
-The project was developed to practice and apply **Java** and **OOP** principles, focusing on data structures such as stacks for page management, queues for customer requests, and lists for tracking used pages.
-
-Key features include:
-
-- Management of translation pages using a stack, with pages being processed and moved to a list.
-- Queue-based handling of customer requests, ensuring order fulfillment in the sequence they arrive.
-- Historical records that track used pages and served clients.
-- An organized document workflow to prevent delays and ensure efficient processing.
-
-I developed approximately **50%** of the system, focusing on the core logic, class design, product management, and purchase simulation, **Main**, and **Cliente** classes, while my teammate **Samuel** contributed the remaining **50%**, particularly the **Hojas** class. This project enhanced my skills in **OOP** and **Java** and provided valuable experience in software design and problem-solving.
+This stack represents applied use in academic, enterprise, and project-based environments.
 
 ---
 
-## 🤝 Collaboration & 📬 Get in Touch
+## 📂 Selected Projects
 
-I’m always open to **collaborating** on projects and **learning** from experienced developers. Your **feedback** and insights are highly appreciated. 
-Let’s connect and make amazing things together! Feel free to reach out for opportunities or a friendly tech chat.
+### 🚗 Parking Management System - ULACIT
+Python
 
-- **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/javier-ale-nu/)
+A software solution developed to replace a manual university parking control process. The system manages users and vehicles across multiple parking areas, improving operational control and traceability.
+
+Key components include:
+- Registration and classification of users and vehicles
+- Validation of institutional status
+- Parking space allocation and time tracking
+- Controlled handling of external visitors
+
+Approximately 90 percent of the system logic was implemented by me using simulated data. This project represents my first complete end-to-end software solution.
+
+---
+
+### 🍪 Crumbl Cookies Sales System
+Java, Object-Oriented Programming
+
+A console-based sales system developed to apply object-oriented principles in a retail simulation context.
+
+Key components include:
+- Class-based modular design
+- Interactive order management
+- Dynamic price calculation and transaction summary
+
+I implemented approximately 70 percent of the system logic and structure, reinforcing object-oriented design and Java fundamentals.
+
+---
+
+### 📄 Translation Company Page Management Program
+Java, Data Structures
+
+A console application designed to simulate document workflow management using stacks, queues, and lists.
+
+Key components include:
+- Stack-based page processing
+- Queue-based handling of customer requests
+- Historical tracking of completed operations
+
+I contributed approximately 50 percent of the implementation, focusing on execution flow, class structure, and system logic.
+
+---
+
+## 🚧 Ongoing Projects
+
+### JobBridge
+A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system is designed as a structured application supporting role management, workflows, and scalable architecture.
+
+### Mobilux
+A mobile application developed in **C# with .NET MAUI**, oriented toward financial tracking of high-value furniture purchases under financing schemes. The application enables structured monitoring of payment schedules, obligations, and outstanding balances.
+
+### Mandatum
+A digital delegation platform designed for legal and administrative procedures. The system enables time-bound and revocable delegation of authority without credential sharing, combining biometric authorization with asymmetric cryptography to issue verifiable and auditable digital mandates.
+
+---
+
+## 🤝 Collaboration and Contact
+
+I welcome professional collaboration, technical discussion, and opportunities related to software systems, infrastructure, databases, and cybersecurity-oriented environments.
+
+- **LinkedIn**: https://www.linkedin.com/in/javier-ale-nu/
 
 ---
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License. Refer to the LICENSE file for further details.

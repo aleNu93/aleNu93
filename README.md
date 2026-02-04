@@ -1,103 +1,84 @@
-# 🚀 Transitioning from Healthcare to Technology
+# 👨‍💻 Javier Alejandro Núñez Sánchez
 
-Welcome to my GitHub. I am a **Computer Engineering professional** with experience in healthcare, public-sector digital transformation, and enterprise IT environments. My work involves the design, implementation, and analysis of software systems, databases, networks, and secure infrastructures.
+Computer Engineering professional with experience in enterprise IT, public-sector digital transformation, software systems, databases, networking, and cybersecurity-oriented environments.
 
-This repository documents academic and applied projects developed within structured engineering, operational, and enterprise contexts.
-
----
-
-## 💡 About Me
-
-Computer Engineering Professional | Enterprise IT | Software, Data, Infrastructure, and Security Systems
-
-I began my professional career in healthcare, accumulating more than seven years of experience in clinical operations and healthcare management roles. During this period, I developed strong capabilities in analytical reasoning, data-driven decision-making, process coordination, and leadership of multidisciplinary teams operating under high-criticality conditions.
-
-I later transitioned into technology-focused roles, applying these competencies to enterprise incident management, public-sector digital transformation initiatives, database systems, networking, and software architecture. My experience includes coordination across technical and non-technical stakeholders, system analysis, implementation support, and validation of technical solutions in regulated environments.
-
-My academic and professional work reflects a structured engineering approach grounded in system reliability, security awareness, and operational accountability.
+This GitHub profile contains academic and applied projects developed under structured engineering, operational, and enterprise contexts.
 
 ---
 
-## 🧰 Technical Stack
+## 🧩 About Me
 
-The following technologies reflect documented academic training and applied project experience:
+Computer Engineering Professional | Enterprise IT | Software Systems, Infrastructure, and Data
 
-- **Programming Languages**: Java, Python, C#, JavaScript, SQL
-- **Web Technologies**: HTML, CSS, Node.js, React
-- **Databases**: SQL Server, relational modeling, normalization (1NF to 3NF), stored procedures, triggers, views
-- **Networking**: IPv4, IPv6, VLANs, OSPF, DNS, DHCP
-- **Tools and Platforms**: Git and GitHub, Visual Studio, Apache NetBeans, Cisco Packet Tracer, Azure DevOps, Oracle Cloud Infrastructure
+I am a Computer Engineering professional with hands-on experience in enterprise incident management, public-sector digital transformation, and academic engineering projects. My background includes work in highly regulated and high-criticality environments, where I have contributed to system analysis, technical coordination, and validation of IT solutions.
 
-This stack represents applied use in academic, enterprise, and project-based environments.
+My professional experience spans enterprise support operations, database-driven systems, networking design, software architecture, and full-stack development projects developed under Agile and Scrum methodologies. I have worked closely with technical teams, management, and stakeholders to support system reliability, security practices, and operational continuity.
+
+My work reflects a structured engineering approach focused on system integrity, accountability, and maintainable design.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: Java, Python, C#, JavaScript, SQL  
+- **Web Development**: HTML, CSS, Node.js, React  
+- **Databases**: SQL Server, relational modeling, normalization (1NF to 3NF), stored procedures, triggers, views  
+- **Networking**: IPv4, IPv6, VLANs, OSPF, DNS, DHCP  
+- **Architecture and Platforms**: Microservices concepts, Oracle Cloud Infrastructure, Azure DevOps  
+- **Cybersecurity**: Risk assessment, penetration testing fundamentals  
+- **Tools**: Git and GitHub, Visual Studio, Apache NetBeans, Cisco Packet Tracer, Microsoft 365  
 
 ---
 
 ## 📂 Selected Projects
 
-### 🚗 Parking Management System - ULACIT
+### 🚗 Parking Management System - ULACIT  
 Python
 
-A software solution developed to replace a manual university parking control process. The system manages users and vehicles across multiple parking areas, improving operational control and traceability.
+A software system designed to replace a manual university parking control process. The application manages users and vehicles across multiple parking areas, improving operational control and traceability.
 
-Key components include:
-- Registration and classification of users and vehicles
-- Validation of institutional status
-- Parking space allocation and time tracking
-- Controlled handling of external visitors
-
-Approximately 90 percent of the system logic was implemented by me using simulated data. This project represents my first complete end-to-end software solution.
+Key elements include user classification, institutional validation, parking space allocation, and time tracking. I implemented approximately 90 percent of the system logic using simulated data.
 
 ---
 
-### 🍪 Crumbl Cookies Sales System
+### 🍪 Crumbl Cookies Sales System  
 Java, Object-Oriented Programming
 
-A console-based sales system developed to apply object-oriented principles in a retail simulation context.
+A console-based retail sales simulation developed to apply object-oriented programming principles.
 
-Key components include:
-- Class-based modular design
-- Interactive order management
-- Dynamic price calculation and transaction summary
-
-I implemented approximately 70 percent of the system logic and structure, reinforcing object-oriented design and Java fundamentals.
+The system includes modular class design, interactive order management, and dynamic price calculation. I implemented approximately 70 percent of the system logic and structure.
 
 ---
 
-### 📄 Translation Company Page Management Program
+### 📄 Translation Company Page Management Program  
 Java, Data Structures
 
-A console application designed to simulate document workflow management using stacks, queues, and lists.
+A console application modeling document workflow management using stacks, queues, and lists.
 
-Key components include:
-- Stack-based page processing
-- Queue-based handling of customer requests
-- Historical tracking of completed operations
-
-I contributed approximately 50 percent of the implementation, focusing on execution flow, class structure, and system logic.
+The system simulates page processing, customer request handling, and historical tracking. I contributed approximately 50 percent of the implementation, focusing on system logic and execution flow.
 
 ---
 
 ## 🚧 Ongoing Projects
 
-### JobBridge
-A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system is designed as a structured application supporting role management, workflows, and scalable architecture.
+### 🔗 JobBridge
+A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system supports structured interaction between talent and small and medium enterprises, including role management and workflow design.
 
-### Mobilux
-A mobile application developed in **C# with .NET MAUI**, oriented toward financial tracking of high-value furniture purchases under financing schemes. The application enables structured monitoring of payment schedules, obligations, and outstanding balances.
+### 📱 Mobilux
+A mobile application developed in C# using .NET MAUI, designed to support financial tracking of high-value furniture purchases acquired through financing schemes.
 
-### Mandatum
-A digital delegation platform designed for legal and administrative procedures. The system enables time-bound and revocable delegation of authority without credential sharing, combining biometric authorization with asymmetric cryptography to issue verifiable and auditable digital mandates.
+### 🛡️ Mandatum
+A digital delegation platform for legal and administrative procedures. The system enables time-bound and revocable delegation of authority without credential sharing, using biometric authorization and asymmetric cryptography to generate verifiable digital mandates.
 
 ---
 
-## 🤝 Collaboration and Contact
+## 🤝 Contact
 
-I welcome professional collaboration, technical discussion, and opportunities related to software systems, infrastructure, databases, and cybersecurity-oriented environments.
-
-- **LinkedIn**: https://www.linkedin.com/in/javier-ale-nu/
+- **LinkedIn**: https://www.linkedin.com/in/javier-ale-nu/  
+- **GitHub**: https://github.com/aleNu93  
 
 ---
 
 ## 📜 License
 
-This repository is licensed under the MIT License. Refer to the LICENSE file for further details.
+This repository is licensed under the MIT License.

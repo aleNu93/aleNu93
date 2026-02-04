@@ -10,7 +10,7 @@ This GitHub profile contains academic and applied projects developed under struc
 
 Computer Engineering Professional | Enterprise IT | Software Systems, Infrastructure, and Data
 
-I am a Computer Engineering professional with hands-on experience in enterprise incident management, public-sector digital transformation, and academic engineering projects. My background includes work in highly regulated and high-criticality environments, where I have contributed to system analysis, technical coordination, and validation of IT solutions.
+I am a Computer Engineering professional with hands-on experience in enterprise incident management, public-sector digital transformation, and academic engineering projects. My background includes work in regulated and high-criticality environments, where I have contributed to system analysis, technical coordination, and validation of IT solutions.
 
 My professional experience spans enterprise support operations, database-driven systems, networking design, software architecture, and full-stack development projects developed under Agile and Scrum methodologies. I have worked closely with technical teams, management, and stakeholders to support system reliability, security practices, and operational continuity.
 
@@ -32,21 +32,54 @@ My work reflects a structured engineering approach focused on system integrity, 
 
 ## 📂 Selected Projects
 
+### 🎓 Smart Campus University Platform  
+Java, HTML, CSS, JavaScript, Azure DevOps, Scrum
+
+A modular university platform developed under Agile and Scrum practices. The system implements role-based access control, dynamic dashboards, and academic management functionality.
+
+I served as **Tech Lead**, coordinating architecture, development, and delivery, while ensuring modularity, maintainability, and alignment with functional requirements.
+
+---
+
+### 🌐 Call Center Network Topology  
+Cisco Packet Tracer
+
+A complete network design and implementation project integrating IPv4 and IPv6 environments.
+
+Key elements include:
+- VLAN segmentation and trunking  
+- OSPFv2 and OSPFv3 routing  
+- VoIP integration  
+- DNS and DHCP services  
+
+I was fully responsible for network design, device configuration, validation, and troubleshooting.
+
+---
+
+### 🗄️ Hospital Staff Management System  
+SQL Server, Stored Procedures
+
+A relational database system designed to automate staff scheduling, rotations, on-call shifts, and vacation management.
+
+The solution enforces business rules through stored procedures and database constraints, ensuring data integrity and operational consistency.
+
+---
+
 ### 🚗 Parking Management System - ULACIT  
 Python
 
-A software system designed to replace a manual university parking control process. The application manages users and vehicles across multiple parking areas, improving operational control and traceability.
+A software system developed to replace a manual university parking control process. The application manages users and vehicles across multiple parking areas, improving operational control and traceability.
 
-Key elements include user classification, institutional validation, parking space allocation, and time tracking. I implemented approximately 90 percent of the system logic using simulated data.
+I implemented approximately 90 percent of the system logic using simulated data.
 
 ---
 
 ### 🍪 Crumbl Cookies Sales System  
 Java, Object-Oriented Programming
 
-A console-based retail sales simulation developed to apply object-oriented programming principles.
+A console-based retail sales simulation developed to apply object-oriented programming principles, including modular class design and transaction logic.
 
-The system includes modular class design, interactive order management, and dynamic price calculation. I implemented approximately 70 percent of the system logic and structure.
+I implemented approximately 70 percent of the system logic and structure.
 
 ---
 
@@ -55,14 +88,14 @@ Java, Data Structures
 
 A console application modeling document workflow management using stacks, queues, and lists.
 
-The system simulates page processing, customer request handling, and historical tracking. I contributed approximately 50 percent of the implementation, focusing on system logic and execution flow.
+I contributed approximately 50 percent of the implementation, focusing on system logic and execution flow.
 
 ---
 
 ## 🚧 Ongoing Projects
 
 ### 🔗 JobBridge
-A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system supports structured interaction between talent and small and medium enterprises, including role management and workflow design.
+A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system is designed to support structured interaction between talent and small and medium enterprises, incorporating role management and workflow design.
 
 ### 📱 Mobilux
 A mobile application developed in C# using .NET MAUI, designed to support financial tracking of high-value furniture purchases acquired through financing schemes.

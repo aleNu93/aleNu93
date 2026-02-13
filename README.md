@@ -1,111 +1,153 @@
 # 👨‍💻 Javier Alejandro Núñez Sánchez
 
-Computer Engineering professional with experience in enterprise IT, public-sector digital transformation, software systems, databases, networking, and cybersecurity-oriented environments.
+Computer Engineering Professional | Enterprise IT | Software Systems, Infrastructure, and Secure Architecture
 
-This GitHub profile contains academic and applied projects developed under structured engineering, operational, and enterprise contexts.
+I design and implement structured, reliable, and scalable technical solutions across software, networking, and data-driven systems. My work reflects a strong engineering foundation combined with practical experience in enterprise and regulated environments.
 
----
-
-## 🧩 About Me
-
-Computer Engineering Professional | Enterprise IT | Software Systems, Infrastructure, and Data
-
-I am a Computer Engineering professional with hands-on experience in enterprise incident management, public-sector digital transformation, and academic engineering projects. My background includes work in regulated and high-criticality environments, where I have contributed to system analysis, technical coordination, and validation of IT solutions.
-
-My professional experience spans enterprise support operations, database-driven systems, networking design, software architecture, and full-stack development projects developed under Agile and Scrum methodologies. I have worked closely with technical teams, management, and stakeholders to support system reliability, security practices, and operational continuity.
-
-My work reflects a structured engineering approach focused on system integrity, accountability, and maintainable design.
+This GitHub profile presents academic and applied projects developed under structured engineering methodologies, with emphasis on architecture, system integrity, and operational continuity.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧩 Professional Profile
 
-- **Programming Languages**: Java, Python, C#, JavaScript, SQL  
-- **Web Development**: HTML, CSS, Node.js, React  
-- **Databases**: SQL Server, relational modeling, normalization (1NF to 3NF), stored procedures, triggers, views  
-- **Networking**: IPv4, IPv6, VLANs, OSPF, DNS, DHCP  
-- **Architecture and Platforms**: Microservices concepts, Oracle Cloud Infrastructure, Azure DevOps  
-- **Cybersecurity**: Risk assessment, penetration testing fundamentals  
-- **Tools**: Git and GitHub, Visual Studio, Apache NetBeans, Cisco Packet Tracer, Microsoft 365  
+Computer Engineering professional with experience in enterprise incident management, public-sector digital transformation, and academic engineering initiatives.
+
+I have contributed to high-criticality environments requiring technical coordination, structured validation processes, and strict operational standards. My experience spans enterprise IT operations, database-centered systems, network design, software architecture, and full-stack development under Agile and Scrum frameworks.
+
+I approach engineering problems with discipline, accountability, and long-term maintainability in mind. My objective is not only to build functional systems, but to design solutions that are coherent, auditable, and scalable.
 
 ---
 
-## 📂 Selected Projects
+## 🛠️ Core Technical Competencies
 
-### 🎓 Smart Campus University Platform  
-Java, HTML, CSS, JavaScript, Azure DevOps, Scrum
+**Programming and Development**
+- Java, Python, C#, JavaScript, SQL  
+- Object-Oriented Programming and modular design  
+- REST-oriented and full-stack development concepts  
 
-A modular university platform developed under Agile and Scrum practices. The system implements role-based access control, dynamic dashboards, and academic management functionality.
+**Web Technologies**
+- HTML, CSS, Node.js, React  
 
-I served as **Tech Lead**, coordinating architecture, development, and delivery, while ensuring modularity, maintainability, and alignment with functional requirements.
+**Data and Database Engineering**
+- SQL Server  
+- Relational modeling and normalization (1NF to 3NF)  
+- Stored procedures, triggers, views, integrity constraints  
 
----
-
-### 🌐 Call Center Network Topology  
-Cisco Packet Tracer
-
-A complete network design and implementation project integrating IPv4 and IPv6 environments.
-
-Key elements include:
+**Networking and Infrastructure**
+- IPv4 and IPv6 implementation  
 - VLAN segmentation and trunking  
+- OSPFv2 and OSPFv3  
+- DNS and DHCP services  
+
+**Architecture and Platforms**
+- Microservices-oriented concepts  
+- Oracle Cloud Infrastructure  
+- Azure DevOps  
+
+**Cybersecurity Foundations**
+- Risk assessment methodologies  
+- Penetration testing fundamentals  
+- Secure access and system validation principles  
+
+**Professional Tools**
+- Git and GitHub  
+- Visual Studio and Apache NetBeans  
+- Cisco Packet Tracer  
+- Microsoft 365  
+
+---
+
+## 📂 Selected Engineering Projects
+
+### 🎓 [Smart Campus University Platform](https://github.com/aleNu93/SmartCampusProject)  
+*(Click here to go to the project)*  
+**Java | Web Technologies | Azure DevOps | Scrum | Technical Leadership**
+
+A modular academic management platform developed under Agile and Scrum methodologies. The system integrates role-based access control, dynamic dashboards, and structured academic workflows.
+
+As Tech Lead, I coordinated system architecture, development cycles, and delivery alignment with functional requirements. The focus was modularity, maintainability, and structured implementation.
+
+---
+
+### 🌐 [Call Center Network Topology](https://github.com/aleNu93/Call-Center-Network-Project-Mesh-Topology)  
+*(Click here to go to the project)*  
+**Enterprise Networking | IPv4/IPv6 | OSPF | VLAN | VoIP**
+
+A complete enterprise network design integrating IPv4 and IPv6 environments.
+
+Key components:
+- VLAN segmentation and trunk configuration  
 - OSPFv2 and OSPFv3 routing  
 - VoIP integration  
 - DNS and DHCP services  
 
-I was fully responsible for network design, device configuration, validation, and troubleshooting.
+Full responsibility for topology design, device configuration, validation testing, and troubleshooting.
 
 ---
 
 ### 🗄️ Hospital Staff Management System  
-SQL Server, Stored Procedures
+**SQL Server | Database Engineering | Business Rule Enforcement**
 
-A relational database system designed to automate staff scheduling, rotations, on-call shifts, and vacation management.
+A relational database solution designed to automate staff scheduling, shift rotations, on-call assignments, and vacation tracking.
 
-The solution enforces business rules through stored procedures and database constraints, ensuring data integrity and operational consistency.
-
----
-
-### 🚗 Parking Management System - ULACIT  
-Python
-
-A software system developed to replace a manual university parking control process. The application manages users and vehicles across multiple parking areas, improving operational control and traceability.
-
-I implemented approximately 90 percent of the system logic using simulated data.
+Business rules are enforced through stored procedures and integrity constraints to ensure data consistency, traceability, and operational reliability.
 
 ---
 
-### 🍪 Crumbl Cookies Sales System  
-Java, Object-Oriented Programming
+### 🚗 [Parking Management System - ULACIT](https://github.com/aleNu93/Parking_Management_System)  
+*(Click here to go to the project)*  
+**Python | Systems Logic | Process Automation**
 
-A console-based retail sales simulation developed to apply object-oriented programming principles, including modular class design and transaction logic.
+A software system replacing a manual university parking control process. The application manages users and vehicles across multiple parking zones, improving operational oversight and traceability.
 
-I implemented approximately 70 percent of the system logic and structure.
-
----
-
-### 📄 Translation Company Page Management Program  
-Java, Data Structures
-
-A console application modeling document workflow management using stacks, queues, and lists.
-
-I contributed approximately 50 percent of the implementation, focusing on system logic and execution flow.
+I implemented approximately 90 percent of the system logic using structured and simulated datasets.
 
 ---
 
-## 🚧 Ongoing Projects
+### 🍪 [Crumbl Cookies Sales System](https://github.com/aleNu93/Crumbl_Cookies_Sales_System)  
+*(Click here to go to the project)*  
+**Java | Object-Oriented Design | Transaction Logic**
 
-### 🔗 JobBridge
-A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system is designed to support structured interaction between talent and small and medium enterprises, incorporating role management and workflow design.
+A console-based retail sales simulation developed to apply object-oriented design principles, modular class structures, and transactional workflows.
 
-### 📱 Mobilux
-A mobile application developed in C# using .NET MAUI, designed to support financial tracking of high-value furniture purchases acquired through financing schemes.
-
-### 🛡️ Mandatum
-A digital delegation platform for legal and administrative procedures. The system enables time-bound and revocable delegation of authority without credential sharing, using biometric authorization and asymmetric cryptography to generate verifiable digital mandates.
+I implemented approximately 70 percent of the overall logic and structural design.
 
 ---
 
-## 🤝 Contact
+### 📄 [Translation Company Page Management Program](https://github.com/aleNu93/Translation_Company_Page_Management_Program)  
+*(Click here to go to the project)*  
+**Java | Data Structures | Workflow Modeling**
+
+A console-based document workflow simulation using stacks, queues, and lists to model structured document processing.
+
+I contributed approximately 50 percent of the system implementation, focusing on execution flow and structural logic.
+
+---
+
+## 🚧 Ongoing Development Initiatives
+
+### 🔗 [JobBridge](https://github.com/aleNu93/JobBridge)  
+*(Click here to go to the project)*  
+
+A full-stack web platform under development using HTML, CSS, JavaScript, Node.js, and React. The system is designed to facilitate structured interaction between professionals and small and medium enterprises, incorporating role management and workflow design.
+
+---
+
+### 📱 [Mobilux](https://github.com/aleNu93/MOBILUX)  
+*(Click here to go to the project)*  
+
+A mobile application built in C# using .NET MAUI, designed to support financial tracking of high-value financed purchases through structured expense monitoring.
+
+---
+
+### 🛡️ [Mandatum](https://github.com/aleNu93/MANDATUM)  
+*(Click here to go to the project)*  
+
+A digital delegation platform for legal and administrative procedures. The system enables time-bound and revocable delegation of authority without credential sharing, leveraging biometric authorization and asymmetric cryptography to generate verifiable digital mandates.
+
+---
+
+## 🤝 Professional Contact
 
 - **LinkedIn**: https://www.linkedin.com/in/javier-ale-nu/  
 - **GitHub**: https://github.com/aleNu93  

@@ -85,12 +85,28 @@ Full responsibility for topology design, device configuration, validation testin
 
 ---
 
-### 🗄️ Hospital Staff Management System  
-**SQL Server | Database Engineering | Business Rule Enforcement**
+### 🏥 [Hospital Staff Scheduling Management Database](https://github.com/aleNu93/Hospital-Staff-Scheduling-Management-Database.git)
+*(Click here to go to the project)*  
+**SQL | Relational Modeling | Business Rules | Data Integrity | System Design**
 
-A relational database solution designed to automate staff scheduling, shift rotations, on-call assignments, and vacation tracking.
+A healthcare scheduling database designed to automate daily staff assignments, service rotations, on-call shifts, and vacation management.
 
-Business rules are enforced through stored procedures and integrity constraints to ensure data consistency, traceability, and operational reliability.
+The system enforces operational constraints such as preventing conflicting states, blocking assignments during leave periods, and protecting closed monthly records. The focus was reliability and workflow control rather than simple data storage.
+
+Responsible for project leadership and database architecture, including relational modeling, constraints, validation logic, and analytical queries.
+
+---
+
+### 🧠 [Addiction Treatment Follow-Up Database]([https://github.com/YOUR-USERNAME/Addiction-Treatment-DB](https://github.com/aleNu93/Social-Impact-Database-System.git)
+*(Click here to go to the project)*  
+**SQL | Database Normalization | Healthcare Data Modeling | Analytical Queries**
+
+A relational database designed to support a treatment follow-up center, tracking the full therapeutic lifecycle from intake and diagnosis to rehabilitation and long-term monitoring.
+
+The system integrates patients, diagnoses, treatment phases, activities, medications, and staff interaction, enabling continuity of care and outcome monitoring.
+
+Designed and implemented a fully normalized database (1NF–3NF), including relationships, constraints, and analytical queries for clinical tracking and reporting.
+
 
 ---
 

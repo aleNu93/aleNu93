@@ -97,7 +97,7 @@ Responsible for project leadership and database architecture, including relation
 
 ---
 
-### 🧠 [Addiction Treatment Follow-Up Database]([https://github.com/YOUR-USERNAME/Addiction-Treatment-DB](https://github.com/aleNu93/Social-Impact-Database-System.git)
+### 🧠 [Addiction Treatment Follow-Up Database](https://github.com/aleNu93/Social-Impact-Database-System.git)
 *(Click here to go to the project)*  
 **SQL | Database Normalization | Healthcare Data Modeling | Analytical Queries**
 
